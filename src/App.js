@@ -20,7 +20,7 @@ const App = () => {
     /**
      * デプロイされたコントラクトアドレスを保持する変数を作成
      */
-    const contractAddress = "0x3ebA5613b97f733B858C1Fd5Ca1cacB49d775fA4";
+    const contractAddress = "0xAe2F1752070363B5B3117437A6A550e8671252Bd";
     /**
      * ABIの内容を参照する変数を作成
      */
